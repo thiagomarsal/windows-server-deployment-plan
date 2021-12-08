@@ -15,6 +15,8 @@ Proposal Plan for implementing a new windows server and client environment on Mi
 -	Principle of Least Privilege
 -	Disaster Recovery
 
+https://youtu.be/U7nKFBDR18M
+
 ### Instalation
 -	Forest/Domain Titled PL.com
 -	ADDS, DHCP, and DNS
@@ -29,3 +31,5 @@ Proposal Plan for implementing a new windows server and client environment on Mi
 -	Database Services
 -	Full Server Backup
 -	Adequate Firewall Rules
+
+https://youtu.be/OP_27_jlFjE
