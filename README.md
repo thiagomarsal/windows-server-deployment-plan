@@ -1,4 +1,4 @@
-# IT235 Windows Server Deployment Plan Proposal
+# Windows Server Deployment Plan Proposal
 Proposal Plan for implementing a new windows server and client environment on Microsoft Azure.
 
 ## Creating one Windows Server and Client on Microsoft Azure implementing some features:
